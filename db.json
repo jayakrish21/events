@@ -1,0 +1,28 @@
+{
+  "events":[
+  {
+  id:1,  
+  name:"Port Elgin",
+  duration:"2.5 hours",
+  distance:"512kms"
+},
+{ 
+  id:2, 
+  name:"Hamilton",
+  duration:"2 hours",
+  distance:"347kms"
+},
+{
+  id:3, 
+  name:"Kingston",
+  duration:"2.5 hour",
+  distance:"400kms"
+},
+{
+  id:4, 
+  name:"Ganonoque",
+  duration:"3 hours",
+  distance:"433kms"
+}
+]
+}
