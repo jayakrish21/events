@@ -1,28 +1,25 @@
 {
-  "events":[
-  {
-  "id":1,  
-  name:"Port Elgin",
-  duration:"2.5 hours",
-  distance:"512kms"
-},
-{ 
-  "id":2, 
-  name:"Hamilton",
-  duration:"2 hours",
-  distance:"347kms"
-},
-{
-  "id":3, 
-  name:"Kingston",
-  duration:"2.5 hour",
-  distance:"400kms"
-},
-{
-  "id":4, 
-  name:"Ganonoque",
-  duration:"3 hours",
-  distance:"433kms"
-}
-]
+  "events": [
+    {
+      "id": 1,
+      "name": "Port Elgin",
+      "description": "Find your new feline friend at this event.",
+      "distance": "512 kms",
+      "duration": "2.5 hrs"
+    },
+    {
+      "id": 2,
+      "name": "Hamilton",
+      "description": "Find your new feline friend at this event.",
+      "distance": "347 kms",
+      "duration": "2 hrs"
+    },
+    {
+       "id":3,
+      "name": "Kingston",
+      "description": "Find your new feline friend at this event.",
+      "distance": "412 kms",
+      "duration": "2 hrs"
+    }
+  ]
 }
